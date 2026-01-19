@@ -32,11 +32,10 @@ The QA activities for this project focus on:
 The following preview demonstrates a critical issue identified during manual testing.  
 In this scenario, the player can jump from a rooftop and fall outside the intended playable area, remaining alive without a respawn or recovery mechanism, resulting in an unintended game state.
 
-![Player falling outside playable area](Evidence/bug_player_falls_outside_map.gif)
+![ParkourSystem-BUG-01-PlayerFallsOutsidePlayableArea](https://github.com/user-attachments/assets/3096d4e1-21c9-435d-9748-541383105f2b)
 
 > Full reproduction steps, severity, and complete video evidence are documented in `Bug-Reports.md`.
 
 ## Test Artifacts
 - 📄 [Manual Test Cases](Test-Cases.md)
 - 🐞 [Bug Reports with Evidence](Bug-Reports.md)
-
