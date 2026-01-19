@@ -41,5 +41,7 @@ OR
 - Reduces overall polish and player experience
 
 ### Evidence
-- Video and visual evidence available in the `Evidence` folder
+- 🎥 Video (Full reproduction): [
+ParkourSystem-BUG-01-PlayerFallsOutsidePlayableArea](https://www.youtube.com/watch?v=k_vOo7-qRrU)
+- 🖼️ Visual preview (GIF): available in the `Evidence` folder
 
